@@ -1,0 +1,57 @@
+/* titlebar ,sticky */
+#idk {
+	   position : sticky ;
+	   top :0px;
+       display : flex;
+       font-size : 2vw;
+	   font-weight : 500;
+	   padding : 1.5vw;
+	   color : white ;	   
+       background-color :black ; 
+
+}
+#fake {
+       padding-right : 45%; 
+}
+
+/* main content */
+body {
+} 
+.title {
+       font-size : 3vw ;
+	   
+}
+.rev  {
+		font-size : 1.5vw ;
+		font-weight : bold;
+}
+#bg1 {
+       background-image :url("phbg.png") ; 
+	   background-repeat : no-repeat ;
+	   background-size : cover ;
+	   border-radius :10px ;
+	   margin-bottom : 0.1%; 
+
+}
+#thom1 {
+		padding :2%;
+}
+
+#rev1{
+		color : #4d3d00;
+} 
+
+
+#bg2 {
+       background-image :url("bg2.png") ; 
+	   background-repeat : no-repeat ;
+	   background-size : cover ;
+	   border-radius :10px ;
+}
+#thom2 {
+		padding :2%;
+}
+#rev2 {
+		color : #ff6666 ; 
+}
+
